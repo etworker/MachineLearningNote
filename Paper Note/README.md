@@ -32,3 +32,7 @@
 - [[kaggle实战] Digit Recognizer -- 从KNN,LR,SVM,RF到深度学习](http://blog.csdn.net/Dinosoft/article/details/50734539)
 - [Deep learning：五十(Deconvolution Network简单理解)](http://www.cnblogs.com/tornadomeet/p/3444128.html)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Adatao：基于Spark/Tachyon的分布式深度学习框架](http://download.csdn.net/detail/happytofly/9190473)
+- [zouxy09博客原创性博文导航](http://blog.csdn.net/zouxy09/article/details/14222605)
+- [Understanding Convolutions](https://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+- [机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)](http://blog.csdn.net/GarfieldEr007/article/details/50756721)
